@@ -1,2 +1,3 @@
-# project-linkedlist
-A university project kept for learning progress tracking purposes.
+# 21Z-EADS-TASK1-MILLER-ARTUR
+
+A laboratory task for EADS.
